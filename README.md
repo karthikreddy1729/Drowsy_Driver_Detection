@@ -14,7 +14,7 @@ Drowsy detection using OpenCV and Convolution Neural Networks.
 Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye.
 
 ## Download the dataset
-you can download the dataset from the link given (http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html)::
+you can download the dataset from the link given (http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html)::\n
 =>Download the dataset and put it in a folder named dataset
 The dataset contains 4 folders namely:
 
@@ -33,7 +33,7 @@ The dataset contains 4 folders namely:
     python drowsiness_predict.py
 ~~~
 
-In the live web-cam it shows the time count of the closing of eyes and whether the driver opened or closed his eyes.
-when the count becomes greater than 15 then the alarm will start ringing and tells the driver is Drowsy.
+In the live web-cam it shows the time count of the closing of eyes and whether the driver opened or closed his eyes.\n
+when the count becomes greater than 15 then the alarm will start ringing and tells the driver is Drowsy.\n
 
 ***Press Q*** to quit the web-cam
