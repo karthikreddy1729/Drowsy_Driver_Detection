@@ -1,5 +1,5 @@
 # Drowsy_Driver_Detection
-This is a project implementing Deep Learning concepts to detect drowsiness of a driver and sound an alarm if drowsy. It is built by real-time Eye-Tracking in videos.
+*   This is a project implementing Deep Learning concepts to detect drowsiness of a driver and sound an alarm if drowsy. It is built by real-time Eye-Tracking in videos.
 *   Drowsy detection using OpenCV and Convolution Neural Networks.
 
 ## Requirements
