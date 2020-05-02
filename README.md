@@ -1,6 +1,6 @@
 # Drowsy_Driver_Detection
 This is a project implementing Deep Learning concepts to detect drowsiness of a driver and sound an alarm if drowsy. It is built by real-time Eye-Tracking in videos.
-Drowsy detection using OpenCV and Convolution Neural Networks.
+**Drowsy detection using OpenCV and Convolution Neural Networks.
 
 ## Requirements
 *  Python 2.7
@@ -13,7 +13,7 @@ Drowsy detection using OpenCV and Convolution Neural Networks.
 
 Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye.
 
-* The model is saved as a json file 'model1' and the weights are saved in model.h5
+* The model is saved as a json file 'model1' and the weights are saved in 'model.h5'
 
 ## Downloading the dataset
 you can download the dataset from the link given (http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html) ::
