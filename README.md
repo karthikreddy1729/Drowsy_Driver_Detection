@@ -22,3 +22,15 @@ The dataset contains 4 folders namely:
 * closedRightEyes
 * openLeftEyes
 * openRightEyes
+
+## Training the data
+```
+    python eye_training.py
+```
+
+## Testing the drowsiness with webcam
+~~~
+python drowsiness_predict.py
+~~~
+
+***Press Q*** to quit the application
