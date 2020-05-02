@@ -1,4 +1,5 @@
 # Drowsy_Driver_Detection
+This is a project implementing Deep Learning concepts to detect drowsiness of a driver and sound an alarm if drowsy. It is built by real-time Eye-Tracking in videos.
 Drowsy detection using OpenCV and Convolution Neural Networks.
 
 ## Requirements
@@ -10,12 +11,13 @@ Drowsy detection using OpenCV and Convolution Neural Networks.
 
 Algorithm
 
-Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye:.
-
-
+Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye.
 
 ## Download the dataset
-Please download the [dataset](http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html) and unzip to the ***/dataset/*** folder. We will have four folders:
+you can download the dataset from the link given (http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html)::
+=>Download the dataset and put it in a folder named dataset
+The dataset contains 4 folders namely:
+
 * closedLeftEyes
 * closedRightEyes
 * openLeftEyes
