@@ -30,7 +30,7 @@ The dataset contains 4 folders namely:
     python eye_training.py
 ```
 
-## Testing the drowsiness with webcam
+## Testing the drowsiness with web-cam
 ~~~
     python drowsiness_prediction.py
 ~~~
