@@ -30,7 +30,10 @@ The dataset contains 4 folders namely:
 
 ## Testing the drowsiness with webcam
 ~~~
-python drowsiness_predict.py
+    python drowsiness_predict.py
 ~~~
 
-***Press Q*** to quit the application
+In the live web-cam it shows the time count of the closing of eyes and whether the driver opened or closed his eyes.
+when the count becomes greater than 15 then the alarm will start ringing and tells the driver is Drowsy.
+
+***Press Q*** to quit the web-cam
