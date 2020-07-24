@@ -15,7 +15,7 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 * The model is saved as a json file 'model1' and the weights are saved in 'model.h5'
 
-## Downloading the dataset
+## Dataset
 you can download the dataset from the link given (http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html) ::
 * =>Download the dataset and put it in a folder named dataset
 The dataset contains 4 folders namely:
